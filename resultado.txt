@@ -1,0 +1,1 @@
+Porta 22 aberta | SSH-2.0-OpenSSH_10.2p1 Ubuntu-2ubuntu3.5
