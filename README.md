@@ -44,3 +44,6 @@ python scanner.py
 ## ⚠️ Aviso Legal
 
 Este script foi desenvolvido com o propósito exclusivo de fins educacionais e testes de segurança em ambientes autorizados. **O uso desta ferramenta para testar alvos sem consentimento prévio e explícito é ilegal e estritamente proibido.** O desenvolvedor não se responsabiliza pelo mau uso desta ferramenta.
+
+
+![alt text](image.png)

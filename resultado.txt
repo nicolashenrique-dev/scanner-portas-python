@@ -1,0 +1,21 @@
+Alvo: scanme.nmap.org
+Portas: 1 - 1024
+Início: 30/07/2026 23:55:20
+----------------------------------------
+OS desconhecido
+Headers HTTP:
+  Server: Apache/2.4.7 (Ubuntu)
+  Nenhum CVE recente encontrado para: Apache/2.4.7 (Ubuntu)
+----------------------------------------
+Porta 22 aberta | SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Porta 80 aberta
+
+Consultando CVEs...
+
+Porta 22:
+  CVEs encontrados:
+  CVE-2014-2532 | sshd in OpenSSH before 6.6 does not properly support wildcards on AcceptEnv lines in sshd_config, wh...
+  CVE-2014-2653 | The verify_host_key function in sshconnect.c in the client in OpenSSH 6.6 and earlier allows remote ...
+----------------------------------------
+Portas abertas: 2
+Scan concluído em 9.65 segundos
