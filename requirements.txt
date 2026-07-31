@@ -68,6 +68,7 @@ setproctitle==1.3.7
 setuptools==78.1.1
 ssh-import-id==5.11
 systemd-python==235
+tqdm==4.70.0
 typeguard==4.4.4
 typing_extensions==4.15.0
 ubuntu-drivers-common==0.0.0
